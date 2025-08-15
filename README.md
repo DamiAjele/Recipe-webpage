@@ -15,5 +15,5 @@ This webpage presents the recipe in a clean, easy-to-follow format for both new 
 - Mobile-friendly design for cooking on the go.
 - Semantic HTML for accessibility.
 
-**Author:** [Your Name]  
+**Author:** Damilola Ajele
 **Inspired by:** Traditional Nigerian cooking.
